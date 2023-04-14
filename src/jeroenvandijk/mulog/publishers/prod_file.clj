@@ -24,7 +24,7 @@
 
 
   (publish-delay [_]
-    200)
+    50)
 
 
   (publish [_ buffer]
